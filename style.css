@@ -1,0 +1,8 @@
+.description{
+    font-family: sans-serif;
+    font-size: 18px;
+    background-color: green;
+    border: 1px solid rgb(99, 97, 97);
+    max-width: 750px;
+    border-radius: 5px;
+}
